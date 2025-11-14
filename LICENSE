@@ -1,0 +1,43 @@
+All Rights Reserved © 2025 Ankur Bhasin
+
+Title:
+"A Universal Coherence Law: Frequency–Information Scaling Across Biological,
+Quantum, Gravitational, Condensed-Matter, and Helioseismic Systems"
+
+Author:
+Ankur Bhasin, Bhasin Research Unit for Hyperphysics (BRUH)
+
+This repository contains public stubs that describe the structure of the
+analysis code used in the above work. The complete code, configuration,
+and data processing pipelines are archived separately for peer review and
+will be released at the author's discretion after journal publication.
+
+Permissions:
+
+- You may view and read the files in this repository.
+- You may cite this repository and the associated paper in academic work.
+
+Restrictions:
+
+- You may NOT copy, modify, merge, publish, distribute, sublicense,
+  or sell copies of this software, in whole or in part.
+- You may NOT use any part of this repository to create derivative works,
+  whether academic, commercial, or otherwise, without explicit written
+  permission from the author.
+- You may NOT reuse or redistribute any parts of the analysis pipeline,
+  algorithms, or design, even if partially reconstructed from these stubs.
+
+No source code guarantee:
+
+The files under src/ are intentionally incomplete and provided only as
+high-level structural stubs. They are not sufficient to reproduce the
+results in the paper and are not intended as production software.
+
+For access to the full reproducible pipeline, or for collaboration,
+please contact:
+
+  Ankur Bhasin
+  Bhasin Research Unit for Hyperphysics (BRUH)
+  Email: ankur@bhasin.in
+
+Any rights not explicitly granted in this notice are reserved.
