@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A Universal Coherence Law: Frequency–Information Scaling Across Biological, Quantum, Gravitational, Condensed-Matter, and Helioseismic Systems"
+authors:
+  - family-names: "Bhasin"
+    given-names: "Ankur"
+affiliations:
+  - name: "Bhasin Research Unit for Hyperphysics (BRUH)"
+date-released: 2025-11-14
+version: "0.1.0-stub"
+repository-code: "https://github.com/<your-username>/universal-coherence-law"
+license: "No license - All rights reserved"
+type: software
+abstract: >
+  Public stub of the analysis pipeline used to derive the universal
+  coherence scaling exponent β across biological, quantum, gravitational,
+  condensed-matter, and helioseismic systems. The full reproducible
+  pipeline is archived separately and will be released after peer review.
