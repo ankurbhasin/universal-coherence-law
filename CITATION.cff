@@ -10,6 +10,7 @@ date-released: 2025-11-14
 version: "0.1.0-stub"
 repository-code: "https://github.com/ankurbhasin/universal-coherence-law"
 license: "No license - All rights reserved"
+Zenodo DOI: 
 type: software
 abstract: >
   Public stub of the analysis pipeline used to derive the universal
