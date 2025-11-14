@@ -100,7 +100,7 @@ If you wish to cite this work, please use:
 > Scaling Across Biological, Quantum, Gravitational, Condensed-Matter,
 > and Helioseismic Systems*. Bhasin Research Unit for Hyperphysics (BRUH).
 
-Zenodo DOI: 
+Zenodo DOI: 10.5281/zenodo.17609625
 
 ---
 
@@ -111,4 +111,4 @@ confidentiality, please contact:
 
 **Ankur Bhasin**  
 Bhasin Research Unit for Hyperphysics (BRUH)  
-Email: <your email here>
+Email: ankur@bhasin.in
