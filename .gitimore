@@ -1,0 +1,28 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+
+# Results and large data
+data/
+runs/
+reports/
+*.fits
+*.fits.gz
+*.csv
+*.hdf5
+
+# Local notes
+*.log
+*.tmp
